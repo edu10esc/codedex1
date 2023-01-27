@@ -1,5 +1,7 @@
-nombre = input("Nombre y apellidos=")
+nombre = input("Nombre= ")
+apellido= input("Apellido= ")
 
-saludo= "Hola Sr."(nombre) 
+saludo= ("Hola Sr.")
 
-print(saludo)
+print(saludo, nombre,apellido) 
+
