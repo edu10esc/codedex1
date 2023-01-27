@@ -1,4 +1,5 @@
 nombre = input("Nombre y apellidos=")
 
-print(nombre)
-print("Hola Sr."(nombre))
+saludo= "Hola Sr."(nombre) 
+
+print(saludo)
