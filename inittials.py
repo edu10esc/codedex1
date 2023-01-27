@@ -1,0 +1,7 @@
+print(" EEEEEE  DDD")
+print(" E       D  D")
+print(" E       D    D")
+print(" EEEE    D    D")
+print(" E       D    D")
+print(" E       D  D ")
+print(" EEEEEE  DDD")

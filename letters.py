@@ -1,0 +1,1 @@
+print("Hola me llamo AITOR DEL A FUENTE, el día de hoy, 10/1/23 me encuentro sentado delante del ordenador con una mirada bizca")
